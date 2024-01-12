@@ -1,0 +1,5 @@
+package org.processmining.earthmoversstochasticconformancechecking.stochasticalignment;
+
+public class StochasticTraceAlignmentsParametersLogLogDefault extends StochasticTraceAlignmentsParametersLogLogAbstract {
+
+}
