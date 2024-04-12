@@ -53,7 +53,7 @@ public class StochasticPathLanguageImpl<A> implements StochasticPathLanguage<A> 
 
 			@Override
 			public boolean hasNext() {
-				return pathIndex < paths.size() - 1;
+				return pathIndex < paths.size() - 2;
 			}
 
 			@Override
